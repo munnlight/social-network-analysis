@@ -1,0 +1,3 @@
+#Заавар
+
+notebook хавтсанд очин pip install дар
